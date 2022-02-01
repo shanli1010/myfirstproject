@@ -1,27 +1,31 @@
 <html>
 <body style="background-color:#BFF9FF">
 <head>
-<title>
+<title>Shania's Portfolio</title>
   <style>
-  title{
+  h1{
     font-family: 'Times New Roman';
-    color : "#294B4F"
+    color : #2B5454
   }
   p{
     font-family: 'Times New Roman';
-    color : "#294B4F"
+    color : #2B5454
   }
   </style>
-  <center>
-      
+  <h1>
 My Portfolio
-</center>
-</title>
+</h1>
+
 </head>
 <p>
 Welcome to my page of artwork, animations, and graphics. Sit back, relax and enjoy the show.
 </p>
-<img src="reflection.jpg" width="200" height="300"> //If using image from online, use http link
+<p>
+  The page is currently under construction so please enjoy
+  a random picture of my seal plushy.
+</p>
+<img src="https://m.media-amazon.com/images/I/61+VBRvmv9L._AC_SX679_.jpg">
+
 
 
 
